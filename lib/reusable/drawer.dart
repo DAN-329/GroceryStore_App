@@ -300,7 +300,7 @@ class DrawerData extends StatelessWidget {
                                             child: Padding(
                                               padding: EdgeInsets.all(10),
                                               child: Text(
-                                                'Terms and Conitions',
+                                                'Terms and Conditions',
                                                 style: TextStyle(
                                                   color: Colors.black,
                                                   fontSize: 20,
